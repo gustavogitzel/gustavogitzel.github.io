@@ -1,0 +1,12 @@
+{
+  "name": "gustavogitzel",
+  "title": "Gustavo Ferreira Gitzel",
+  "version": "1.0.0",
+  "homepage": "https://gustavogitzel.me",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavogitzel/gustavogitzel.github.io.git"
+  },
+  "author": "Gustavo Ferreira Gitzel",
+  "license": "MIT"
+}
